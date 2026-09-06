@@ -1,1 +1,2 @@
-
+##
+The reason why you should never commit AWS creds or Git tokens is simply due to the fact that doing so can compromise you accounts and allow others to gain access and do as they please with them. Even in the event that the repo is private, it could still end up being shared or access can be changed. These kinds of creds should be treated with high priority and stored somewhere safe and secure, typically encrypted as well. In the event one is committed it should be removed and replaced as soon as possible.
