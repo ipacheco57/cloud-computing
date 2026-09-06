@@ -1,1 +1,2 @@
-
+##
+The difference between a docker image and container is that an image is basically a template that contains everything needed to create a container. On the other hand a container is the actual environment created from that image that can be ran or interacted with. It's like the image is the blueprint and the the container is the final product of the working product. Additionally, the container allows me to run linux commands without having to install a entire seperate OS.
