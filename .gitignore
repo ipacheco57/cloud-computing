@@ -1,3 +1,12 @@
 .env
 *.pem
 instance_ids.txt
+
+# Lab 03 generated files
+trust-policy.json
+uploader-policy.json
+viewer-policy.json
+uploader-lt-data.json
+viewer-lt-data.json
+user-data-uploader.sh
+user-data-viewer.sh
