@@ -1,0 +1,10 @@
+.env
+*.pem
+db_outputs.env
+stack_outputs.env
+user-data-*.sh
+lt-data-*.json
+*-policy.json
+trust-policy.json
+node_modules/
+__pycache__/
